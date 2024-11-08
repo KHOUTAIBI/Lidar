@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/iliass/Lidarcpp/build",
+  "command": "/usr/bin/g++  -I/home/iliass/Lidarcpp -I/usr/local/include/src  -std=c++17 -g   -std=c++17 -o CMakeFiles/Lidar.dir/lidar.cpp.o -c /home/iliass/Lidarcpp/lidar.cpp",
+  "file": "/home/iliass/Lidarcpp/lidar.cpp"
+}
+]

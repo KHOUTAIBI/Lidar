@@ -1,0 +1,1 @@
+/usr/bin/g++  -std=c++17 -g -rdynamic CMakeFiles/Lidar.dir/lidar.cpp.o -o Lidar  -lydlidar_sdk -lpthread -lrt 
